@@ -12,8 +12,11 @@
 **REQUIREMENTS**
 
 *1. Arduino IDE*
+
 *2. ESP8266 Node MCCU*
+
 *3. lM35 Sensor*
+
 *4. Wifi Router*
 
 # INSTRUCTIONS
